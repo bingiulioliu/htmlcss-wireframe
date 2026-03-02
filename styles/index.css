@@ -19,7 +19,20 @@ body {
     border: 2px solid black;
     margin: 15px 30px;
     padding: 20px;
+    background-color: antiquewhite;
 }
 #piede {
     padding: 5px 15px;
+}
+p {
+    color: darkcyan;
+}
+h2 {
+    color: rgb(0, 110, 110);
+}
+h1 {
+    color: rgb(0, 80, 80);
+}
+hr {
+    border: 2px solid rgb(0, 43, 43);
 }
