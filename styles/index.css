@@ -9,3 +9,9 @@ body {
     width: 512px;
     /* border: 2px dashed black; */
 }
+#titolone {
+    padding: 15px;
+    display: flex;
+    justify-content: center; /* Allineamento orizzontale */
+    align-items: center; /* Allineamento verticale */
+}
