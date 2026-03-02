@@ -15,3 +15,8 @@ body {
     justify-content: center; /* Allineamento orizzontale */
     align-items: center; /* Allineamento verticale */
 }
+.pinco-pallo {
+    border: 2px solid black;
+    margin: 15px 30px;
+    padding: 20px;
+}
